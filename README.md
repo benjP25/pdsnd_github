@@ -10,6 +10,9 @@ In this project, Python was used to explore data related to bike share systems f
 
 ### Files used
 bikeshare.py
+chicago.csv
+washington.csv
+new york city.csv
 
 ### Credits
 This project was done as part of Udacity's Nanodegree - Programming for Data Science with Python. Starter code, instructions and clean datasets were provided by Udacity.
